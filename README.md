@@ -1,31 +1,40 @@
-# 2024-02-14-Turing-Training
+# July 2024 Baskerville Virtual Training
 
 <center><img src="img/logo.png" alt="baskerville-logo" width="200"/></center>
 
-Training Material for Turing event 14th - 15th Feb
+Training Schedule for the month of July 2024
 
 ## Schedule
 
-### Day 1
+### Frida 5th July
 
 |      Time     | Event |
 | --------------| ----- |
-| 10:00 - 11:00 | Coffee |
-| 11:00 - 12:00 | Intro to Baskerville HPC |
-| 12:00 - 13:00 | Lunch |
-| 13:00 - 14:00 | Intro to Baskerville Portal |
-| 14:00 - 15:00 | Non-Interactive Batch Jobs |
-| 15:15 - 17:00 | Interactive Jobs |
+| 13:00 - 15:00 | Baskerville login and access |
+| 15:00 - 16:00 | Questions |
 
-### Day 2
+
+### Frida 12th July
 
 |      Time     | Event |
 | --------------| ----- |
-| 09:00 - 10:30 | Self-installed software with pip, apptainer etc |
-| 10:30 - 12:00 | Profiling with Linaro Forge |
-| 12:00 - 13:00 | Lunch |
-| 13:00 - 17:00 | NVIDIA DLI - Fundamentals of Deep Learning (with a coffee break) |
-| 17:00 - 17:00 | Close |
+| 13:00 - 15:00 | Baskerville jobs |
+| 15:00 - 16:00 | Questions |
+
+
+### Frida 19th July
+
+|      Time     | Event |
+| --------------| ----- |
+| 13:00 - 15:00 | Baskerville self-installs |
+| 15:00 - 16:00 | Questions |
+
+### Frida 26th July
+
+|      Time     | Event |
+| --------------| ----- |
+| 13:00 - 15:00 | RELION and Doppio |
+| 15:00 - 16:00 | Questions |
 
 ## Support
 
