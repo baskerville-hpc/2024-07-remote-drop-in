@@ -6,35 +6,17 @@ Training Schedule for the month of July 2024
 
 ## Schedule
 
-### Frida 5th July
 
-|      Time     | Event |
-| --------------| ----- |
-| 13:00 - 15:00 | Baskerville login and access |
-| 15:00 - 16:00 | Questions |
-
-
-### Frida 12th July
-
-|      Time     | Event |
-| --------------| ----- |
-| 13:00 - 15:00 | Baskerville jobs |
-| 15:00 - 16:00 | Questions |
-
-
-### Frida 19th July
-
-|      Time     | Event |
-| --------------| ----- |
-| 13:00 - 15:00 | Baskerville self-installs |
-| 15:00 - 16:00 | Questions |
-
-### Frida 26th July
-
-|      Time     | Event |
-| --------------| ----- |
-| 13:00 - 15:00 | RELION and Doppio |
-| 15:00 - 16:00 | Questions |
+|    Date    |      Time     | Event |
+| ---------- | --------------| ----- |
+| 05/07/2024 | 13:00 - 15:00 | Baskerville login and access |
+|            | 15:00 - 16:00 | Questions |
+| 12/07/2024 | 13:00 - 15:00 | Baskerville jobs |
+|            | 15:00 - 16:00 | Questions |
+| 19/07/2024 | 13:00 - 15:00 | Baskerville self-installs |
+|            | 15:00 - 16:00 | Questions |
+| 26/07/2024 | 13:00 - 15:00 | RELION and Doppio |
+|            | 15:00 - 16:00 | Questions |
 
 ## Support
 
