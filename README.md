@@ -2,7 +2,11 @@
 
 <center><img src="img/logo.png" alt="baskerville-logo" width="200"/></center>
 
-Training Schedule for the month of July 2024
+Training schedule for the month of July 2024
+
+## HackMD
+
+[HackMD](https://hackmd.io/hjrZGy1KT8269nePXQsDyw) contains an outline of each session as well as zoom information. This document will also be a place to ask questions during the training session.
 
 ## Schedule
 
